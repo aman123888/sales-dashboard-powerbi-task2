@@ -1,2 +1,15 @@
-# sales-dashboard-powerbi-task2
-This Power BI dashboard analyzes global sales data by product line, country, and deal size. It includes KPIs like total sales, total orders, average sale per order, and customer count. Visuals include interactive maps, bar charts, donut charts, and line graphs to track trends across time and regions.
+# Sales Dashboard in Power BI
+
+This project showcases a global sales analysis dashboard built using Power BI.
+
+## Features
+- KPIs: Total Sales, Total Orders, Avg Sale, Total Customers
+- Filters: Deal Size, Product Line, Year, Country
+- Visuals: Map, Bar, Line, Donut charts
+- Data cleaned and transformed using Power Query
+
+## Tools Used
+- Power BI
+
+## Screenshot
+![Dashboard Preview](dashboard.png)
